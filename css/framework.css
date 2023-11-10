@@ -1,0 +1,12 @@
+.d-flex {
+    display: flex;
+}
+.flex-dc {
+    flex-direction: column;
+}
+.flex-dr {
+    flex-direction: row;
+}
+.pr-20 {
+    padding-right: 10px ;
+} 
